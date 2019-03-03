@@ -6,11 +6,12 @@ class Cluster:
     def __init__(self):
         pass
 
-    def bic(self):
+    def _bic(self):
         pass
 
-    def cluster(self):
+    def _cluster(self):
         pass
 
     def fit(self):
         pass
+
